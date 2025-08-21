@@ -1,0 +1,60 @@
+{
+  "company_name": "SecureLife Insurance Company",
+  "company_type": "Insurance Company",
+  "company_address": "123 Corporate Blvd, Suite 500, Business City, ST 12345",
+  "company_website": "www.securelife.com",
+  "company_phone": "1-800-555-LIFE (5433)",
+  "company_email": "info@securelife.com",
+  
+  "departments": {
+    "customer_service": {
+      "department": "Customer Service",
+      "representative_name": "Customer Service Team",
+      "contact_phone": "1-800-555-HELP (4357)",
+      "contact_email": "service@securelife.com",
+      "hours": "Monday-Friday 8:00 AM - 8:00 PM ET"
+    },
+    "claims": {
+      "department": "Claims Department", 
+      "representative_name": "Claims Processing Team",
+      "contact_phone": "1-800-555-CLAIM (25246)",
+      "contact_email": "claims@securelife.com",
+      "hours": "Monday-Friday 7:00 AM - 7:00 PM ET"
+    },
+    "billing": {
+      "department": "Billing Department",
+      "representative_name": "Billing Support Team", 
+      "contact_phone": "1-800-555-BILL (2455)",
+      "contact_email": "billing@securelife.com",
+      "hours": "Monday-Friday 8:00 AM - 6:00 PM ET"
+    },
+    "underwriting": {
+      "department": "Underwriting Department",
+      "representative_name": "Underwriting Team",
+      "contact_phone": "1-800-555-UNDER (86337)",
+      "contact_email": "underwriting@securelife.com", 
+      "hours": "Monday-Friday 9:00 AM - 5:00 PM ET"
+    },
+    "new_business": {
+      "department": "New Business Department",
+      "representative_name": "New Customer Services",
+      "contact_phone": "1-800-555-NEW (639)",
+      "contact_email": "newbusiness@securelife.com",
+      "hours": "Monday-Saturday 8:00 AM - 8:00 PM ET"
+    }
+  },
+  
+  "corporate_policies": {
+    "response_time": "2-3 business days for standard inquiries",
+    "urgent_response_time": "24 hours for urgent matters",
+    "appeal_deadline": "30 days from receipt of denial letter",
+    "refund_processing_time": "10-15 business days",
+    "claim_review_time": "7-10 business days"
+  },
+  
+  "brand_voice": {
+    "tone": "Professional, empathetic, and solution-focused",
+    "values": ["Customer-centric", "Trustworthy", "Reliable", "Transparent"],
+    "communication_style": "Clear, concise, and caring"
+  }
+}
